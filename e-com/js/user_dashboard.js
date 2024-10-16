@@ -66,7 +66,7 @@ $(document).ready(function () {
         $("#cartModal").modal("hide");
 
         var options = {
-            key: 'rzp_test_7VF0CWufBdLEVg', 
+            key: '', 
             amount: 100 * $("#totalBill").data("total-bill"), 
             currency: 'INR',
             name: 'Flipkart',
